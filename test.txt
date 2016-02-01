@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-super
-=======
-fighter
->>>>>>> local
-hi
-hello
+love
